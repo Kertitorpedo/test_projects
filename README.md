@@ -12,7 +12,7 @@ This Python script processes rainfall data for the last quarter. It prints the r
 1. Copy the code into a Python file (e.g., `rainfall.py`).
 2. Run it using `python3 rainfall.py`.
 
-##__________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________
 
 The other one is comes together called, log_in.py and log_in.txt
 
