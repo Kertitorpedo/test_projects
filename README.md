@@ -1,4 +1,4 @@
-You can find two py files and one .txt file in my test repository at the moment.
+You can find two .py files and one .txt file in my test repository at the moment.
 The first one named keyword_arguments.py
 ## is Rainfall Data Analysis
 This Python script processes rainfall data for the last quarter. It prints the rainfall for each month, updates December's data, and calculates the total rainfall.
